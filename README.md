@@ -1,0 +1,2 @@
+# RedesNeuraisRecorrentes
+Exemplos práticos
